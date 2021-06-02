@@ -1,7 +1,7 @@
 <img align="left" width="150" height="150" alt="Shohanur Islam Sobuj" src="https://raw.githubusercontent.com/ShohanurSobuj/ShohanurSobuj/master/assets/avatar.png"/>
 
-## Hi, I'm [Shohanur Islam Sobuj!](https://shohanursobuj.github.io) 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=73F753&vCenter=true&lines=Self-taught+Machine+Learning+Enthusiast;Alwayes+learning+new+things)](https://shohanursobuj.github.io)
+## Hi, I'm [Shohanur Islam Sobuj!](https://shohanursobuj.github.io) <img src="https://raw.githubusercontent.com/ShohanurSobuj/ShohanurSobuj/master/assets//Hi.gif" width="29px">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&vCenter=true&lines=Hello%2C+World!;My+Name+Is+Shohanur+Islam+Sobuj.;Self-taught+Machine+Learning+Enthusiast.;Always+learning+new+things.;Welcome+to+my+profile!)](https://shohanursobuj.github.io)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShohanurSobuj&label=Views&color=blue&style=plastic" alt="ShohanurSobuj" /> </p>
 
@@ -63,6 +63,6 @@ Hi, I'm Shohanur Islm Sobuj, and I'm a self-taught machine learning enthusiast w
 </p>
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### If you like this readme file, please give me star! ❤️
 
 </div>
