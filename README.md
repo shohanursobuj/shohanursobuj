@@ -1,6 +1,7 @@
 <img align="left" width="150" height="150" alt="Shohanur Islam Sobuj" src="https://raw.githubusercontent.com/ShohanurSobuj/ShohanurSobuj/master/assets/avatar.png"/>
 
 ## Hi, I'm [Shohanur Islam Sobuj!](https://shohanursobuj.github.io) 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=73F753&vCenter=true&lines=Self-taught+Machine+Learning+Enthusiast;Alwayes+learning+new+things)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShohanurSobuj&label=Views&color=blue&style=plastic" alt="ShohanurSobuj" /> </p>
 
