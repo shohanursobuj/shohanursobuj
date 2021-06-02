@@ -16,7 +16,7 @@ Hi, I'm Shohanur Islm Sobuj, and I'm a self-taught machine learning enthusiast w
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on NLP Project
+- 🔭 I’m currently working on NLP & Deep learning projects.
 - 🌱 I’m currently learning more about NLP, Deep Learning, Machine Learning.
 -  ⚙️ I use daily: `.py`, `.ipnyb`,`.psd`, `.ai`
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
@@ -25,19 +25,15 @@ Hi, I'm Shohanur Islm Sobuj, and I'm a self-taught machine learning enthusiast w
   - 🛠 Deep Learning
   - 📢 NLP
   - 🤖 Robotics
-- 👯 I’m looking to collaborate on [GitHub](https://github.com/ShohanurSobuj).
+- 👯 I’m looking to collaborate on any Data Science project which seems interesting or useful.
 - ⚡ Available for Freelance projects/internship opportunities.
-- 💬 Ask me about Python, ML, NLP, CV.
-- 📫 How to reach me:  [LinkedIn - ShohanurSobuj](https://www.linkedin.com/in/shohanursobuj/) or [Email](mailto:shohanursobuj@gmail.com).
+- 💬 Open to questions about Machine Learning and projects I've worked on.
+- 📫 How to reach me:  [LinkedIn - ShohanurSobuj](https://www.linkedin.com/in/shohanursobuj/) or [shohanursobuj@gmail.com](mailto:shohanursobuj@gmail.com).
+- 😄 Pronouns: He/Him.
 - 📝 [Resume]()
 - 
 ### 📬 Get in Touch
 
-- StackOverflow: [stackoverflow.com/federico-dondi][stackoverflow]
-- GitHub: [github.com/federico-dondi][github]
-- LinkedIn: coming soon
-- Site: [federico-dondi.github.io][site]
-- E-mail: federico.dondi2@studio.unibo.it
 [![Twitter: ShohanurSobuj](https://img.shields.io/twitter/follow/ShohanurSobuj?style=social)](https://twitter.com/ShohanurSobuj)
 [![Linkedin: Shohanur Islam Sobuj](https://img.shields.io/badge/-ShohanurSobuj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/shohanursobuj/)
 [![GitHub ShohanurSobuj](https://img.shields.io/github/followers/ShohanurSobuj?label=follow&style=social)](https://github.com/ShohanurSobuj)
