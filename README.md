@@ -1,3 +1,5 @@
+<img align="left" width="150" height="150" alt="Shohanur Islam Sobuj" src="https://raw.githubusercontent.com/ShohanurSobuj/ShohanurSobuj/master/assets/avatar.png"/>
+
 ## Hi, I'm [Shohanur Islam Sobuj!](https://shohanursobuj.github.io) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShohanurSobuj&label=Views&color=blue&style=plastic" alt="ShohanurSobuj" /> </p>
@@ -30,6 +32,7 @@ Hi, I'm Shohanur Islam Sobuj, a Machine Learning Enthusiast 🚀 from Bangladesh
 <br/>
 <br/>
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ShohanurSobuj/ShohanurSobuj/master/assets/my_activity.gif" width="360px"/>
 
 **Talking about Personal Stuffs:**
 
