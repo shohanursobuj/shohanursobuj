@@ -5,26 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShohanurSobuj&label=Views&color=blue&style=plastic" alt="ShohanurSobuj" /> </p>
 
-<a href="https://twitter.com/shohanursobuj">
-  <img align="left" alt="ShohanurSobuj's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/shohanursobuj/">
-  <img align="left" alt="ShohanurSobuj's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/ShohanurSobuj">
-  <img align="left" alt="ShohanurSobuj's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
-<a href="https://www.instagram.com/shohanur_sobuj/">
-  <img align="left" alt="ShohanurSobuj's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/shohanur.sobuj/">
-  <img align="left" alt="ShohanurSobuj's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCDb1wf6IZKf-wczXeMPNeZQ">
-  <img align="left" alt="ShohanurSobuj's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-
 <br/>
 <br/>
 
