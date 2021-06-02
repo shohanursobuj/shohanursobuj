@@ -27,8 +27,7 @@
 <br/>
 <br/>
 
-Hi, I'm Shohanur Islam Sobuj, a Machine Learning Enthusiast 🚀 from Bangladesh, currently, I'm an undergraduate student of [@HSTU, Dinajpur](https://hstu.ac.bd/)
-
+Hi, I'm Shohanur Islm Sobuj, and I'm a self-taught machine learning enthusiast working as a freelance machine learning engineer 🔧. My passion for ML lies with dreaming up ideas and making them come true with elegant interfaces. I take great care of the experience, architecture, and code quality of the things I build. I am also an open-source enthusiast and maintainer . I learned a lot from the open-source community, and I love how open-source facilitates collaboration and knowledge sharing. I'm always open to new ideas and opportunities 
 <br/>
 <br/>
 
@@ -39,13 +38,14 @@ Hi, I'm Shohanur Islam Sobuj, a Machine Learning Enthusiast 🚀 from Bangladesh
 - 🌱 I’m currently learning more about NLP, Deep Learning, Machine Learning.
 - 👯 I’m looking to collaborate on [GitHub](https://github.com/ShohanurSobuj).
 - 📫 How to reach me:  [LinkedIn - ShohanurSobuj](https://www.linkedin.com/in/shohanursobuj/) or [Email](mailto:shohanursobuj@gmail.com).
+- 📝 [Resume]()
 
 [![Twitter: ShohanurSobuj](https://img.shields.io/twitter/follow/ShohanurSobuj?style=social)](https://twitter.com/ShohanurSobuj)
 [![Linkedin: Shohanur Islam Sobuj](https://img.shields.io/badge/-ShohanurSobuj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/shohanursobuj/)
 [![GitHub ShohanurSobuj](https://img.shields.io/github/followers/ShohanurSobuj?label=follow&style=social)](https://github.com/ShohanurSobuj)
 [![website](https://img.shields.io/badge/PortfolioWebsite-ShohanurSobuj.github.io-2648ff?style=flat-square&logo=google-chrome)](https://ShohanurSobuj.github.io/)
 
-**Languages and Tools:**  
+🔨 **Languages and Tools:**  
 
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
