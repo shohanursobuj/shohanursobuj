@@ -8,7 +8,7 @@
 <br/>
 <br/>
 
-Hi, I'm Shohanur Islm Sobuj, and I'm a self-taught machine learning enthusiast working as a freelance machine learning engineer 🔧. My passion for ML lies with dreaming up ideas and making them come true with elegant interfaces. I take great care of the experience, architecture, and code quality of the things I build. I am also an open-source enthusiast and maintainer . I learned a lot from the open-source community, and I love how open-source facilitates collaboration and knowledge sharing. I'm always open to new ideas and opportunities 
+Hi, I'm Shohanur Islam Sobuj, and I'm a self-taught machine learning enthusiast working as a freelance machine learning engineer 🔧. My passion for ML lies in dreaming up ideas and making them come true with elegant interfaces. I take great care of the experience, architecture, and code quality of the things I build. I am also an open-source enthusiast and maintainer . I learned a lot from the open-source community, and I love how open-source facilitates collaboration and knowledge sharing. I'm always open to new ideas and opportunities 
 <br/>
 <br/>
 
