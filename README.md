@@ -16,29 +16,60 @@ Hi, I'm Shohanur Islm Sobuj, and I'm a self-taught machine learning enthusiast w
 
 **Talking about Personal Stuffs:**
 
+- 🔭 I’m currently working on NLP Project
 - 🌱 I’m currently learning more about NLP, Deep Learning, Machine Learning.
+-  ⚙️ I use daily: `.py`, `.ipnyb`,`.psd`, `.ai`
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+  - 📊 Machine Learning & Data Science
+  - 🖼 Computer Vision
+  - 🛠 Deep Learning
+  - 📢 NLP
+  - 🤖 Robotics
 - 👯 I’m looking to collaborate on [GitHub](https://github.com/ShohanurSobuj).
+- ⚡ Available for Freelance projects/internship opportunities.
+- 💬 Ask me about Python, ML, NLP, CV.
 - 📫 How to reach me:  [LinkedIn - ShohanurSobuj](https://www.linkedin.com/in/shohanursobuj/) or [Email](mailto:shohanursobuj@gmail.com).
 - 📝 [Resume]()
+- 
+### 📬 Get in Touch
 
+- StackOverflow: [stackoverflow.com/federico-dondi][stackoverflow]
+- GitHub: [github.com/federico-dondi][github]
+- LinkedIn: coming soon
+- Site: [federico-dondi.github.io][site]
+- E-mail: federico.dondi2@studio.unibo.it
 [![Twitter: ShohanurSobuj](https://img.shields.io/twitter/follow/ShohanurSobuj?style=social)](https://twitter.com/ShohanurSobuj)
 [![Linkedin: Shohanur Islam Sobuj](https://img.shields.io/badge/-ShohanurSobuj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/shohanursobuj/)
 [![GitHub ShohanurSobuj](https://img.shields.io/github/followers/ShohanurSobuj?label=follow&style=social)](https://github.com/ShohanurSobuj)
 [![website](https://img.shields.io/badge/PortfolioWebsite-ShohanurSobuj.github.io-2648ff?style=flat-square&logo=google-chrome)](https://ShohanurSobuj.github.io/)
 
 🔨 **Languages and Tools:**  
+<p>
+  <!-- Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  -->
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+  <br/>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+   <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-official.svg"></code>
+  <br/>
+</p>
 
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/ShohanurSobuj/ShohanurSobuj/main/assets/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/ShohanurSobuj/ShohanurSobuj/main/assets/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/ShohanurSobuj/ShohanurSobuj/main/assets/language_and_tools/square/python/python.svg"></a>
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/ShohanurSobuj/ShohanurSobuj/main/assets/language_and_tools/square/android/android.svg"> </a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/ShohanurSobuj/ShohanurSobuj/main/assets/language_and_tools/square/java/java.svg"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/ShohanurSobuj/ShohanurSobuj/main/assets/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/ShohanurSobuj/ShohanurSobuj/main/assets/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/ShohanurSobuj/ShohanurSobuj/main/assets/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
-<code> <img height="38" alt="Visual Studio Code" width="38px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
+
 
 
 
