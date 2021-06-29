@@ -28,7 +28,7 @@ Hi, I'm Shohanur Islam Sobuj, and I'm a self-taught machine learning enthusiast 
 - 👯 I’m looking to collaborate on any Data Science project which seems interesting or useful.
 - ⚡ Available for Freelance projects/internship opportunities.
 - 💬 Open to questions about Machine Learning and projects I've worked on.
-- 📫 How to reach me:  [LinkedIn - ShohanurSobuj](https://www.linkedin.com/in/shohanursobuj/) or [shohanursobuj@gmail.com](mailto:shohanursobuj@gmail.com).
+- 📫 How to reach me: <b> [LinkedIn - ShohanurSobuj](https://www.linkedin.com/in/shohanursobuj/) or [shohanursobuj@gmail.com](mailto:shohanursobuj@gmail.com) </b>
 - 😄 Pronouns: He/Him.
 - 📝 [Resume]()
 ### 📬 Get in Touch
