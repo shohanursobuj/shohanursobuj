@@ -20,10 +20,10 @@ Hi, I'm Shohanur Islam Sobuj, and I'm a self-taught machine learning enthusiast 
 - 🌱 I’m currently learning more about NLP, Deep Learning, Machine Learning.
 -  ⚙️ I use daily: `.py`, `.ipnyb`,`.psd`, `.ai`
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+  - 📢 Natural Language Processing (NLP)
   - 📊 Machine Learning & Data Science
   - 🖼 Computer Vision
   - 🛠 Deep Learning
-  - 📢 NLP
   - 🤖 Robotics
 - 👯 I’m looking to collaborate on any Data Science project which seems interesting or useful.
 - ⚡ Available for Freelance projects/internship opportunities.
