@@ -1,9 +1,9 @@
 <img align="left" width="150" height="150" alt="Shohanur Islam Sobuj" src="https://raw.githubusercontent.com/ShohanurSobuj/ShohanurSobuj/master/assets/avatar.png"/>
 
-## Hi, I'm [Shohanur Islam Sobuj!](https://shohanursobuj.github.io) <img src="https://raw.githubusercontent.com/ShohanurSobuj/ShohanurSobuj/master/assets//Hi.gif" width="29px">
+## Hi, I'm [Shohanur Islam Sobuj!](https://shohanursobuj.github.io) <img src="https://raw.githubusercontent.com/ShohanurSobuj/ShohanurSobuj/master/assets//Hi.gif" width="29px"> <img align="right" src="https://komarev.com/ghpvc/?username=ShohanurSobuj&color=269077">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&vCenter=true&lines=Hello%2C+World!;My+Name+Is+Shohanur+Islam+Sobuj.;Self-taught+Machine+Learning+Enthusiast.;Always+learning+new+things.;Welcome+to+my+profile!)](https://shohanursobuj.github.io)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShohanurSobuj&label=Views&color=blue&style=plastic" alt="ShohanurSobuj" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShohanurSobuj&label=Views&color=blue&style=plastic" alt="ShohanurSobuj" /> </p> -->
 
 <br/>
 <br/>
@@ -48,16 +48,16 @@ Hi, I'm Shohanur Islam Sobuj, and I'm a self-taught machine learning enthusiast 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+  <code><img width="15%" src="https://img.shields.io/badge/-Illustrator-141a20?style=flat&logo=adobe-illustrator"></code>
   <br/>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-official.svg"></code>
+  <code><img width="15%" src="https://img.shields.io/badge/-Photoshop-141a20?style=flat&logo=adobe-photoshop"></code>
   <br/>
 </p>
-
-
 
 
 
