@@ -28,11 +28,11 @@ Hi, I'm Shohanur Islam Sobuj, and I'm a self-taught machine learning enthusiast 
 - 👯 I’m looking to collaborate on any Data Science project which seems interesting or useful.
 - ⚡ Available for Freelance projects/internship opportunities.
 - 💬 Open to questions about Machine Learning and projects I've worked on.
-- 📫 How to reach me: <b> [LinkedIn - ShohanurSobuj](https://www.linkedin.com/in/shohanursobuj/) or [shohanursobuj@gmail.com](mailto:shohanursobuj@gmail.com) </b>
+- 📫 How to reach me: <b> [LinkedIn - ShohanurSobuj](https://www.linkedin.com/in/shohanursobuj/) or [![gmail](https://img.shields.io/badge/-shohanursobuj@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:shohanursobuj@gmail.com) </b>
 - 😄 Pronouns: He/Him.
 - 📝 [Resume]()
-### 📬 Get in Touch
-
+### 📬 Connect with me
+[![telegram](https://img.shields.io/badge/-@ShohanurSobuj-0e3e55?style=flat&logo=Telegram&logoColor=white)](https://t.me/ShohanurSonuj)
 [![Twitter: ShohanurSobuj](https://img.shields.io/twitter/follow/ShohanurSobuj?style=social)](https://twitter.com/ShohanurSobuj)
 [![Linkedin: Shohanur Islam Sobuj](https://img.shields.io/badge/-ShohanurSobuj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/shohanursobuj/)
 [![GitHub ShohanurSobuj](https://img.shields.io/github/followers/ShohanurSobuj?label=follow&style=social)](https://github.com/ShohanurSobuj)
