@@ -32,7 +32,7 @@ Hi, I'm Shohanur Islam Sobuj, and I'm a self-taught machine learning enthusiast 
 - 😄 Pronouns: He/Him.
 - 📝 [Resume]()
 ### 📬 Connect with me
-[![telegram](https://img.shields.io/badge/-@ShohanurSobuj-0e3e55?style=flat&logo=Telegram&logoColor=white)](https://t.me/ShohanurSonuj)
+[![telegram](https://img.shields.io/badge/-@ShohanurSobuj-0e3e55?style=flat&logo=Telegram&logoColor=white)](https://t.me/ShohanurSobuj)
 [![Twitter: ShohanurSobuj](https://img.shields.io/twitter/follow/ShohanurSobuj?style=social)](https://twitter.com/ShohanurSobuj)
 [![Linkedin: Shohanur Islam Sobuj](https://img.shields.io/badge/-ShohanurSobuj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/shohanursobuj/)
 [![GitHub ShohanurSobuj](https://img.shields.io/github/followers/ShohanurSobuj?label=follow&style=social)](https://github.com/ShohanurSobuj)
