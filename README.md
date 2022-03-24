@@ -36,7 +36,7 @@ Hi, I'm Md. Shohanur Islam Sobuj, and I'm a self-taught machine learning enthusi
 [![Twitter: ShohanurSobuj](https://img.shields.io/twitter/follow/ShohanurSobuj?style=social)](https://twitter.com/ShohanurSobuj)
 [![Linkedin: Shohanur Islam Sobuj](https://img.shields.io/badge/-ShohanurSobuj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/shohanursobuj/)
 [![GitHub ShohanurSobuj](https://img.shields.io/github/followers/ShohanurSobuj?label=follow&style=social)](https://github.com/ShohanurSobuj)
-[![website](https://img.shields.io/badge/PortfolioWebsite-ShohanurSobuj.github.io-2648ff?style=flat-square&logo=google-chrome)](https://ShohanurSobuj.sgithub.io/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-ShohanurSobuj.github.io-2648ff?style=flat-square&logo=google-chrome)](https://ShohanurSobuj.github.io/)
 
 🔨 **Languages and Tools:**  
 <p>
