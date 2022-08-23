@@ -24,7 +24,6 @@ Hi, I'm Md. Shohanur Islam Sobuj, and I'm a self-taught machine learning enthusi
   - 📊 Machine Learning & Data Science
   - 🖼 Computer Vision
   - 🛠 Deep Learning
-  - 🤖 Robotics
 - 👯 I’m looking to collaborate on any Data Science project which seems interesting or useful.
 - ⚡ Available for Freelance projects/internship opportunities.
 - 💬 Open to questions about Machine Learning and projects I've worked on.
