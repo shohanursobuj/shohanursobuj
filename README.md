@@ -1,12 +1,17 @@
 <img align="left" width="150" height="150" alt="Shohanur Islam Sobuj" src="https://raw.githubusercontent.com/ShohanurSobuj/ShohanurSobuj/master/assets/avatar.png"/>
 
 ## Hi, I'm [Md. Shohanur Islam Sobuj!](https://shohanursobuj.github.io) <img src="https://raw.githubusercontent.com/ShohanurSobuj/ShohanurSobuj/master/assets//Hi.gif" width="29px"> <img align="right" src="https://komarev.com/ghpvc/?username=ShohanurSobuj&color=269077">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&vCenter=true&lines=Hello%2C+World!;My+Name+Is+Shohanur+Islam+Sobuj.;Self-taught+Machine+Learning+Enthusiast.;Always+learning+new+things.;Welcome+to+my+profile!)](https://shohanursobuj.github.io)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&vCenter=true&lines=Hello%2C+World!;My+Name+Is+Shohanur+Islam+Sobuj.;Self-taught+Machine+Learning+Enthusiast.;Research+Enthusiast.;Always+learning+new+things.;Welcome+to+my+profile!)](https://shohanursobuj.github.io)
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShohanurSobuj&label=Views&color=blue&style=plastic" alt="ShohanurSobuj" /> </p> -->
 
 <br/>
 <br/>
+<h2> About Me </h2>
+
+````diff
+-Looking for a Ph.D. position in Medical Image Procesing/Natural Language Processing.
+````
 
 Hi, I'm Md. Shohanur Islam Sobuj, and I'm a self-taught machine learning enthusiast working as a freelance machine learning engineer 🔧. My passion for ML lies in dreaming up ideas and making them come true with elegant interfaces. I take great care of the experience, architecture, and code quality of the things I build. I am also an open-source enthusiast and maintainer . I learned a lot from the open-source community, and I love how open-source facilitates collaboration and knowledge sharing. I'm always open to new ideas and opportunities 
 <br/>
@@ -73,6 +78,8 @@ Hi, I'm Md. Shohanur Islam Sobuj, and I'm a self-taught machine learning enthusi
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShohanurSobuj&repo=repo_name&theme=light" /> -->
 
 </a>
+
+
 <br>
 <br>
 
