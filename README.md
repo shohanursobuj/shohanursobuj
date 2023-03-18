@@ -34,7 +34,7 @@ Hi, I'm Md. Shohanur Islam Sobuj, and I'm a self-taught machine learning enthusi
 - 💬 Open to questions about Machine Learning and projects I've worked on.
 - 📫 How to reach me: <b> [LinkedIn - ShohanurSobuj](https://www.linkedin.com/in/shohanursobuj/) or [![gmail](https://img.shields.io/badge/-shohanursobuj@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:shohanursobuj@gmail.com) </b>
 - 😄 Pronouns: He/Him.
-- 📝 [Resume](https://drive.google.com)
+- 📝 [Resume]([https://drive.google.com](https://drive.google.com/file/d/1FimQee_wiekhcWqSR-MQcCr4UTfeOVcE/view?usp=sharing))
 ### 📬 Connect with me
 [![telegram](https://img.shields.io/badge/-@ShohanurSobuj-0e3e55?style=flat&logo=Telegram&logoColor=white)](https://t.me/ShohanurSobuj)
 [![Twitter: ShohanurSobuj](https://img.shields.io/twitter/follow/ShohanurSobuj?style=social)](https://twitter.com/ShohanurSobuj)
