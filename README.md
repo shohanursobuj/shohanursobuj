@@ -13,7 +13,7 @@
 -Looking for a Ph.D. position in Medical Image Procesing/Natural Language Processing.
 ````
 
-Hi, I'm Md. Shohanur Islam Sobuj, and I'm a self-taught machine learning enthusiast working as a freelance machine learning engineer 🔧. My passion for ML lies in dreaming up ideas and making them come true with elegant interfaces. I take great care of the experience, architecture, and code quality of the things I build. I am also an open-source enthusiast and maintainer . I learned a lot from the open-source community, and I love how open-source facilitates collaboration and knowledge sharing. I'm always open to new ideas and opportunities 
+Hi, I'm Md. Shohanur Islam Sobuj, and I am currently employed as a Machine Learning Engineer at Anchorblock Technology. 🔧. My passion for ML lies in dreaming up ideas and making them come true with elegant interfaces. I take great care of the experience, architecture, and code quality of the things I build. I am also an open-source enthusiast and maintainer . I learned a lot from the open-source community, and I love how open-source facilitates collaboration and knowledge sharing. I'm always open to new ideas and opportunities 
 <br/>
 <br/>
 
@@ -27,20 +27,20 @@ Hi, I'm Md. Shohanur Islam Sobuj, and I'm a self-taught machine learning enthusi
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📢 Natural Language Processing (NLP)
   - 📊 Machine Learning & Data Science
-  - 🖼 Computer Vision
+  - 🖼 Large Language Modeling (LLM)
   - 🛠 Deep Learning
 - 👯 I’m looking to collaborate on any Data Science project which seems interesting or useful.
-- ⚡ Available for Freelance projects/internship opportunities.
+- ⚡ Available for Freelance projects.
 - 💬 Open to questions about Machine Learning and projects I've worked on.
-- 📫 How to reach me: <b> [LinkedIn - ShohanurSobuj](https://www.linkedin.com/in/shohanursobuj/) or [![gmail](https://img.shields.io/badge/-shohanursobuj@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:shohanursobuj@gmail.com) </b>
+- 📫 How to reach me: <b> [LinkedIn - Md. Shohanur Islam Sobuj](https://www.linkedin.com/in/shohanursobuj/) or [![gmail](https://img.shields.io/badge/-shohanursobuj@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:shohanursobuj@gmail.com) </b>
 - 😄 Pronouns: He/Him.
-- 📝 [Resume](https://drive.google.com/file/d/1FimQee_wiekhcWqSR-MQcCr4UTfeOVcE/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1FimQee_wiekhcWqSR-MQcCr4UTfeOVcE/view)
 ### 📬 Connect with me
 [![telegram](https://img.shields.io/badge/-@ShohanurSobuj-0e3e55?style=flat&logo=Telegram&logoColor=white)](https://t.me/ShohanurSobuj)
 [![Twitter: ShohanurSobuj](https://img.shields.io/twitter/follow/ShohanurSobuj?style=social)](https://twitter.com/ShohanurSobuj)
-[![Linkedin: Shohanur Islam Sobuj](https://img.shields.io/badge/-ShohanurSobuj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/shohanursobuj/)
-[![GitHub ShohanurSobuj](https://img.shields.io/github/followers/ShohanurSobuj?label=follow&style=social)](https://github.com/ShohanurSobuj)
-[![website](https://img.shields.io/badge/PortfolioWebsite-ShohanurSobuj.github.io-2648ff?style=flat-square&logo=google-chrome)](https://ShohanurSobuj.github.io/)
+[![Linkedin: Md. Shohanur Islam Sobuj](https://img.shields.io/badge/-shohanursobuj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/shohanursobuj/)
+[![GitHub shohanursobuj](https://img.shields.io/github/followers/shohanursobuj?label=follow&style=social)](https://github.com/ShohanurSobuj)
+[![website](https://img.shields.io/badge/PortfolioWebsite-shohanursobuj.github.io-2648ff?style=flat-square&logo=google-chrome)](https://shohanursobuj.github.io/)
 
 🔨 **Languages and Tools:**  
 <p>
@@ -66,7 +66,7 @@ Hi, I'm Md. Shohanur Islam Sobuj, and I'm a self-taught machine learning enthusi
 
 
 
-<a href="https://github.com/ShohanurSobuj">
+<a href="https://github.com/shohanursobuj">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShohanurSobuj&&theme=dracula&hide_langs_below=1" />
 </a>
 <a href="https://github.com/ShohanurSobuj">
@@ -75,7 +75,7 @@ Hi, I'm Md. Shohanur Islam Sobuj, and I'm a self-taught machine learning enthusi
 <!-- best reposotories -->
 <!-- <a href="https://github.com/ShohanurSobuj/Smart-Glass">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShohanurSobuj&repo=repo_name&theme=light" /> -->
-<img src="https://activity-graph.herokuapp.com/graph?username=ShohanurSobuj&theme=vue" width="100%"/> 
+<img src="https://activity-graph.herokuapp.com/graph?username=shohanursobuj&theme=vue" width="100%"/> 
 
 </a>
 
