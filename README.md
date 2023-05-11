@@ -69,13 +69,11 @@ Hi, I'm Md. Shohanur Islam Sobuj, and I am currently employed as a Machine Learn
 <a href="https://github.com/shohanursobuj">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShohanurSobuj&&theme=dracula&hide_langs_below=1" />
 </a>
-<a href="https://github.com/ShohanurSobuj">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShohanurSobuj&show_icons=true&theme=dracula&line_height=27" alt="Shohanur Islam Sobuj's github stats"/>
-</a>
+
 <!-- best reposotories -->
 <!-- <a href="https://github.com/ShohanurSobuj/Smart-Glass">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShohanurSobuj&repo=repo_name&theme=light" /> -->
-<img src="https://activity-graph.herokuapp.com/graph?username=shohanursobuj&theme=vue" width="100%"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=shohanursobuj&show_icons=true&count_private=true&theme=vue-dark" width="49.5%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=shohanursobuj&theme=vue-dark" width="49.5%" height="10.0%"/> 
 
 </a>
 
