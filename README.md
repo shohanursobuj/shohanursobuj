@@ -8,10 +8,10 @@
 <br/>
 <br/>
 <h2> About Me </h2>
-
+<!--
 ````diff
 -Looking for a Ph.D. position in Machine Learning/Data Science/Natural Language Processing.
-````
+````-->
 
 Hi, I'm Md. Shohanur Islam Sobuj, and I am currently employed as a Machine Learning Engineer at Anchorblock Technology. 🔧. My passion for ML lies in dreaming up ideas and making them come true with elegant interfaces. I take great care of the experience, architecture, and code quality of the things I build. I am also an open-source enthusiast and maintainer . I learned a lot from the open-source community, and I love how open-source facilitates collaboration and knowledge sharing. I'm always open to new ideas and opportunities 
 <br/>
