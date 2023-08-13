@@ -23,7 +23,7 @@ Hi, I'm Md. Shohanur Islam Sobuj, and I am currently employed as a Machine Learn
 
 - 🔭 I’m currently working on NLP & Deep learning projects.
 - 🌱 I’m currently learning more about NLP, Deep Learning, Machine Learning.
--  ⚙️ I use daily: `.py`, `.ipnyb`,`.psd`, `.ai`
+-  ⚙️ I use daily: `.py`, `.ipnyb`
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📢 Natural Language Processing (NLP)
   - 📊 Machine Learning & Data Science
@@ -51,15 +51,15 @@ Hi, I'm Md. Shohanur Islam Sobuj, and I am currently employed as a Machine Learn
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<!--   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code> -->
-  <code><img width="15%" src="https://img.shields.io/badge/-Illustrator-141a20?style=flat&logo=adobe-illustrator"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+<!--   <code><img width="15%" src="https://img.shields.io/badge/-Illustrator-141a20?style=flat&logo=adobe-illustrator"></code> -->
   <br/>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <!--   <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-official.svg"></code> -->
-  <code><img width="15%" src="https://img.shields.io/badge/-Photoshop-141a20?style=flat&logo=adobe-photoshop"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
   <br/>
 </p>
 
