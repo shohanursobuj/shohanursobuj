@@ -1,4 +1,4 @@
-<img align="left" width="150" height="150" alt="Shohanur Islam Sobuj" src="https://raw.githubusercontent.com/ShohanurSobuj/ShohanurSobuj/master/assets/avatar.png"/>
+1<img align="left" width="150" height="150" alt="Shohanur Islam Sobuj" src="https://raw.githubusercontent.com/ShohanurSobuj/ShohanurSobuj/master/assets/avatar.png"/>
 
 ## Hi, I'm [Md. Shohanur Islam Sobuj!](https://shohanursobuj.github.io) <img src="https://raw.githubusercontent.com/ShohanurSobuj/ShohanurSobuj/master/assets//Hi.gif" width="29px"> <img align="right" src="https://komarev.com/ghpvc/?username=ShohanurSobuj&color=269077">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ubuntu&vCenter=true&lines=Hello%2C+World!;My+Name+Is+Shohanur+Islam+Sobuj.;Self-taught+Machine+Learning+Enthusiast.;Research+Enthusiast.;Always+learning+new+things.;Welcome+to+my+profile!)](https://shohanursobuj.github.io)
@@ -13,7 +13,7 @@
 -Looking for a Ph.D. position in Machine Learning/Data Science/Natural Language Processing.
 ````-->
 
-Hi, I'm Md. Shohanur Islam Sobuj, and I am currently employed as a Machine Learning Engineer at Anchorblock Technology. 🔧. My passion for ML lies in dreaming up ideas and making them come true with elegant interfaces. I take great care of the experience, architecture, and code quality of the things I build. I am also an open-source enthusiast and maintainer . I learned a lot from the open-source community, and I love how open-source facilitates collaboration and knowledge sharing. I'm always open to new ideas and opportunities 
+Hi, I'm Md. Shohanur Islam Sobuj, and I am currently employed as a Machine Learning Engineer at Business Automation Ltd. 🔧. My passion for ML lies in dreaming up ideas and making them come true with elegant interfaces. I take great care of the experience, architecture, and code quality of the things I build. I am also an open-source enthusiast and maintainer . I learned a lot from the open-source community, and I love how open-source facilitates collaboration and knowledge sharing. I'm always open to new ideas and opportunities 
 <br/>
 <br/>
 
