@@ -4,13 +4,13 @@
 
 <img width="150" height="150" alt="Shohanur Islam Sobuj" src="https://raw.githubusercontent.com/ShohanurSobuj/ShohanurSobuj/master/assets/avatar.png" style="border-radius: 50%; border: 3px solid #58a6ff;"/>
 
-## Hi, I'm [Md. Shohanur Islam Sobuj!](https://shohanursobuj.github.io) <img src="https://raw.githubusercontent.com/ShohanurSobuj/ShohanurSobuj/master/assets//Hi.gif" width="29px">
+## Hi, I'm [Md. Shohanur Islam Sobuj!](https://shohanursobuj.dev) <img src="https://raw.githubusercontent.com/ShohanurSobuj/ShohanurSobuj/master/assets//Hi.gif" width="29px">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer+%F0%9F%A4%96;NLP+%26+Deep+Learning+Enthusiast+%F0%9F%A7%A0;Self-taught+Developer+%F0%9F%92%BB;Research+%26+Innovation+Focused+%F0%9F%94%AC;Always+Learning+New+Things+%F0%9F%93%9A;Welcome+to+My+Profile!+%F0%9F%8C%9F)](https://shohanursobuj.github.io)
 
 <img align="right" src="https://komarev.com/ghpvc/?username=ShohanurSobuj&color=58a6ff&style=flat-square&label=Profile+Views"/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-58a6ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shohanursobuj.github.io)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-58a6ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shohanursobuj.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shohanursobuj/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shohanursobuj@gmail.com)
 
@@ -103,7 +103,7 @@ I'm passionate about transforming complex data into actionable insights and buil
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ShohanurSobuj)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shohanursobuj/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShohanurSobuj)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://shohanursobuj.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://shohanursobuj.dev)
 
 </div>
 
@@ -291,7 +291,7 @@ I'm always excited to work on innovative projects, especially in:
 
 ### 🙏 **Thank You for Visiting!**
 
-*Made with ❤️ by [Md. Shohanur Islam Sobuj](https://shohanursobuj.github.io)*
+*Made with ❤️ by [Md. Shohanur Islam Sobuj](https://shohanursobuj.dev)*
 
 **"Turning Data into Decisions, Code into Solutions"**
 
