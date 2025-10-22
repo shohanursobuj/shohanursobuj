@@ -25,8 +25,8 @@
 ### 👨‍💻 **Professional Journey**
 
 🔹 **Machine Learning Engineer** at *Business Automation Ltd.*  
-🔹 **3+ Years** of experience in ML/AI and Data Science  
-🔹 **10+ Projects** completed in NLP, Computer Vision, and Deep Learning  
+🔹 **4+ Years** of experience in ML/AI and Data Science  
+🔹 **30+ Projects** completed in NLP, Computer Vision, and Deep Learning  
 🔹 **Open Source Contributor** and Community Member  
 
 ### 🎯 **What Drives Me**
