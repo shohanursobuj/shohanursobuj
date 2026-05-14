@@ -89,7 +89,7 @@ I'm passionate about transforming complex data into actionable insights and buil
   </tr>
   <tr>
     <td>📝</td>
-    <td><strong>Resume:</strong> <a href="https://drive.google.com/file/d/19JUCwCIlt8IbR7VKfonsyt9eJF-C0-It/view?usp=sharing">View My CV</a></td>
+    <td><strong>Resume:</strong> <a href="https://shohanursobuj.dev/resume">View My CV</a></td>
   </tr>
 </table>
 
