@@ -4,9 +4,9 @@
 
 <img width="150" height="150" alt="Shohanur Islam Sobuj" src="https://raw.githubusercontent.com/ShohanurSobuj/ShohanurSobuj/master/assets/avatar.png" style="border-radius: 50%; border: 3px solid #58a6ff;"/>
 
-## Hi, I'm [Md. Shohanur Islam Sobuj!](https://shohanursobuj.dev) <img src="https://raw.githubusercontent.com/ShohanurSobuj/ShohanurSobuj/master/assets//Hi.gif" width="29px">
+## Hi, I'm [Md Shohanur Islam Sobuj!](https://shohanursobuj.dev) <img src="https://raw.githubusercontent.com/ShohanurSobuj/ShohanurSobuj/master/assets//Hi.gif" width="29px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer+%F0%9F%A4%96;NLP+%26+Deep+Learning+Enthusiast+%F0%9F%A7%A0;Self-taught+Developer+%F0%9F%92%BB;Research+%26+Innovation+Focused+%F0%9F%94%AC;Always+Learning+New+Things+%F0%9F%93%9A;Welcome+to+My+Profile!+%F0%9F%8C%9F)](https://shohanursobuj.github.io)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer+%F0%9F%A4%96;NLP+%26+Deep+Learning+Enthusiast+%F0%9F%A7%A0;Self-taught+Developer+%F0%9F%92%BB;Research+%26+Innovation+Focused+%F0%9F%94%AC;Always+Learning+New+Things+%F0%9F%93%9A;Welcome+to+My+Profile!+%F0%9F%8C%9F)](https://shohanursobuj.dev)
 
 <img align="right" src="https://komarev.com/ghpvc/?username=ShohanurSobuj&color=58a6ff&style=flat-square&label=Profile+Views"/>
 
@@ -24,8 +24,8 @@
 
 ### 👨‍💻 **Professional Journey**
 
-🔹 **Machine Learning Engineer** at *Business Automation Ltd.*  
-🔹 **4+ Years** of experience in ML/AI and Data Science  
+🔹 **Machine Learning Engineer** at *Anymate Me GmbH*  
+🔹 **6+ Years** of experience in ML/AI and Data Science  
 🔹 **30+ Projects** completed in NLP, Computer Vision, and Deep Learning  
 🔹 **Open Source Contributor** and Community Member  
 
