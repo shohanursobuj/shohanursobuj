@@ -100,7 +100,7 @@ I'm passionate about transforming complex data into actionable insights and buil
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ShohanurSobuj)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TensorMancer)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ShohanurSobuj)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shohanursobuj/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShohanurSobuj)
@@ -289,7 +289,7 @@ I'm always excited to work on innovative projects, especially in:
 </td>
 <td align="center">
 <h4>📱 For Quick Chat</h4>
-<a href="https://t.me/ShohanurSobuj">
+<a href="https://t.me/TensorMancer">
 <img src="https://img.shields.io/badge/Telegram-Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 </td>
