@@ -12,7 +12,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-58a6ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shohanursobuj.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shohanursobuj/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shohanursobuj@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@shohanursobuj.dev)
 
 </div>
 
@@ -82,7 +82,7 @@ I'm passionate about transforming complex data into actionable insights and buil
   </tr>
   <tr>
     <td>📫</td>
-    <td><strong>Reach me:</strong> <a href="https://www.linkedin.com/in/shohanursobuj/">LinkedIn</a> • <a href="mailto:shohanursobuj@gmail.com">Email</a></td>
+    <td><strong>Reach me:</strong> <a href="https://www.linkedin.com/in/shohanursobuj/">LinkedIn</a> • <a href="mailto:contact@shohanursobuj.dev">Email</a></td>
   </tr>
   <tr>
     <td>😄</td>
@@ -253,7 +253,7 @@ I'm passionate about transforming complex data into actionable insights and buil
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShohanurSobuj&layout=compact&theme=vue-dark&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
 
 ### 📈 **Contribution Graph**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shohanursobuj&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" alt="Contribution Graph"/>
+<img src="https://ghchart.rshah.org/58a6ff/shohanursobuj" alt="Contribution Graph"/>
 
 </div>
 
@@ -283,7 +283,7 @@ I'm always excited to work on innovative projects, especially in:
 </td>
 <td align="center">
 <h4>💼 For Business Inquiries</h4>
-<a href="mailto:shohanursobuj@gmail.com">
+<a href="mailto:contact@shohanursobuj.dev">
 <img src="https://img.shields.io/badge/Email-Business-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </td>
@@ -320,7 +320,7 @@ I'm always excited to work on innovative projects, especially in:
 
 ### 🙏 **Thank You for Visiting!**
 
-*Made with ❤️ by [Md. Shohanur Islam Sobuj](https://shohanursobuj.dev)*
+*Made with ❤️ by [Md Shohanur Islam Sobuj](https://shohanursobuj.dev)*
 
 **"Turning Data into Decisions, Code into Solutions"**
 
