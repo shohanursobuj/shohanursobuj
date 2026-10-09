@@ -1,46 +1,327 @@
-### Hi, I'm Shohanur 👋
+<div align="center">
+  
+# 👋 Welcome to My GitHub Profile!
 
-**Machine Learning Engineer · MLOps · LLMs** — Köln, Germany · he/him
+<img width="150" height="150" alt="Shohanur Islam Sobuj" src="https://raw.githubusercontent.com/ShohanurSobuj/ShohanurSobuj/master/assets/avatar.png" style="border-radius: 50%; border: 3px solid #58a6ff;"/>
 
-I build and run ML systems in production. At [Anymate Me GmbH](https://anymateme.com) I own an agentic slide-to-video pipeline (PDF/PPTX → RAG agent → TTS → avatar lip-sync) on GCP: **p95 < 3 min per 10-slide deck, 99.4% uptime, error rate < 4%**, with LLM evaluation gates (groundedness, guardrails), canary deploys and automated rollback.
+## Hi, I'm [Md Shohanur Islam Sobuj!](https://shohanursobuj.dev) <img src="https://raw.githubusercontent.com/ShohanurSobuj/ShohanurSobuj/master/assets//Hi.gif" width="29px">
 
-6+ years in ML — 13 AI products shipped at Anchorblock, real-time CDC pipelines (Kafka/Debezium) at Business Automation, and 12 peer-reviewed papers on the side (225+ citations, h-index 8).
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer+%F0%9F%A4%96;NLP+%26+Deep+Learning+Enthusiast+%F0%9F%A7%A0;MLOps+%26+LLM+Systems+in+Production+%E2%9A%99%EF%B8%8F;Research+%26+Innovation+Focused+%F0%9F%94%AC;Always+Learning+New+Things+%F0%9F%93%9A;Welcome+to+My+Profile!+%F0%9F%8C%9F)](https://shohanursobuj.dev)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shohanursobuj.dev-0d1117?style=flat-square&logo=googlechrome&logoColor=white)](https://shohanursobuj.dev)
-[![Resume](https://img.shields.io/badge/Resume-PDF-0d1117?style=flat-square&logo=readthedocs&logoColor=white)](https://shohanursobuj.dev/resume)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shohanursobuj-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shohanursobuj/)
-[![Scholar](https://img.shields.io/badge/Google_Scholar-225%2B_citations-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=tBc62IMAAAAJ&hl=en)
-[![Email](https://img.shields.io/badge/Email-contact%40shohanursobuj.dev-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@shohanursobuj.dev)
+<img align="right" src="https://komarev.com/ghpvc/?username=ShohanurSobuj&color=58a6ff&style=flat-square&label=Profile+Views"/>
 
----
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-58a6ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shohanursobuj.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shohanursobuj/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shohanursobuj@gmail.com)
 
-#### 🔧 Featured project
-
-**[production-ml-platform](https://github.com/shohanursobuj/production-ml-platform)** — reference platform for running a model in production, end to end:
-train → evaluation gate (vs. thresholds and current champion) → container → Kubernetes with Argo Rollouts canary gated by Prometheus SLOs → Grafana dashboards → in-process drift detection (PSI) → retraining that promotes models through reviewed PRs.
-Terraform for GKE Autopilot in `europe-west3` with keyless GitHub OIDC; CI deploys every commit into a kind cluster and smoke-tests it.
-
-`FastAPI` `Helm` `Argo Rollouts` `Prometheus` `Grafana` `Terraform` `GKE` `MLflow` `GitHub Actions`
-
-#### 📄 Selected research
-
-| Paper | Venue |
-|---|---|
-| [LLM-Mixer: Multiscale Mixing in LLMs for Time Series Forecasting](https://arxiv.org/abs/2410.11674) · [code](https://github.com/Kowsher/LLMMixer) | NeurIPS Workshop 2025 |
-| [Parameter-Efficient Fine-Tuning of LLMs Using Semantic Knowledge Tuning](https://www.nature.com/articles/s41598-024-75599-4) | Scientific Reports (Nature) 2024 |
-| [ML-Driven Fault Detection and Classification for Electric Vehicles](https://ieeexplore.ieee.org/document/10530324) | IEEE Access 2024 |
-| [L-TUNING: Synchronized Label Tuning for Prompt and Prefix Tuning in LLMs](https://openreview.net/forum?id=zv3xpxqjjB) · [code](https://github.com/Kowsher/L-Tuning) | ICLR 2024 Tiny Papers |
-| [Contrastive Learning for Universal Zero-Shot NLI](https://aclanthology.org/2023.mrl-1.18/) | EMNLP 2023 Workshop (MRL) |
-| [Pre-trained CNNs for Rice Leaf Disease Classification](https://arxiv.org/abs/2405.00025) · [code](https://github.com/shohanursobuj/LeafExtractCNN) | IEEE iCACCESS 2024 |
-
-[All publications →](https://shohanursobuj.dev/#research)
-
-#### 🧰 Stack
-
-- **ML / LLMs** — Python, PyTorch, Transformers, PEFT/LoRA, RAG, LangGraph, vector search (pgvector, Qdrant), TTS, computer vision
-- **MLOps / Platform** — Docker, Kubernetes, Helm, Terraform, GCP, AWS, MLflow, Prometheus, Grafana/Loki, GitHub Actions, FastAPI
-- **Data** — Kafka, Debezium, Airflow, PostgreSQL, Redis, Elasticsearch
+</div>
 
 ---
 
-Open to senior ML / MLOps engineering conversations in Germany, the EU and remote.
+## 🚀 About Me
+
+<img align="right" alt="Coding Animation" src="https://raw.githubusercontent.com/ShohanurSobuj/ShohanurSobuj/master/assets/my_activity.gif" width="350px"/>
+
+### 👨‍💻 **Professional Journey**
+
+🔹 **Machine Learning Engineer** at *Anymate Me GmbH*, Köln — agentic slide-to-video pipeline on GCP (p95 < 3 min, 99.4% uptime)  
+🔹 **6+ Years** of experience in production ML, MLOps and LLM systems  
+🔹 **13 AI Products** shipped at Anchorblock · **30+ Projects** delivered as a freelancer  
+🔹 **12 Peer-Reviewed Papers** (Nature Sci. Reports, IEEE Access, NeurIPS & ICLR workshops) — 225+ citations  
+
+### 🎯 **What Drives Me**
+
+I'm passionate about transforming complex data into actionable insights and building intelligent systems that solve real-world problems. My expertise lies in:
+
+- 🧠 **Artificial Intelligence & Machine Learning**
+- 📊 **Data Science & Analytics** 
+- 🔗 **Natural Language Processing**
+- 👁️ **Computer Vision & Image Processing**
+- ⚡ **MLOps & Model Deployment**
+- 🤖 **LLMs, RAG & Agentic AI**
+
+### 🌟 **Core Values**
+
+✨ **Innovation**: Always exploring cutting-edge technologies  
+🤝 **Collaboration**: Believing in the power of open-source community  
+📈 **Growth**: Continuous learning and skill development  
+🎨 **Quality**: Writing clean, efficient, and maintainable code  
+
+---
+
+### 💼 **Currently Working On**
+
+<table>
+  <tr>
+    <td>🔭</td>
+    <td><strong>Current Focus:</strong> Production LLM & multimodal pipelines — eval gates, canary deploys, observability</td>
+  </tr>
+  <tr>
+    <td>🌱</td>
+    <td><strong>Exploring:</strong> LLM serving at scale, drift detection & continuous training, Kubernetes platform tooling</td>
+  </tr>
+  <tr>
+    <td>⚙️</td>
+    <td><strong>Daily Tools:</strong> <code>Python</code>, <code>PyTorch</code>, <code>Docker</code>, <code>Kubernetes</code>, <code>GCP</code>, <code>MLflow</code></td>
+  </tr>
+  <tr>
+    <td>🎯</td>
+    <td><strong>Specializations:</strong> MLOps • LLMs & RAG • NLP • Computer Vision</td>
+  </tr>
+  <tr>
+    <td>👯</td>
+    <td><strong>Collaboration:</strong> Open to exciting ML/AI projects and research opportunities</td>
+  </tr>
+  <tr>
+    <td>⚡</td>
+    <td><strong>Availability:</strong> Open to interesting ML / MLOps conversations</td>
+  </tr>
+  <tr>
+    <td>💬</td>
+    <td><strong>Ask me about:</strong> Machine Learning, Deep Learning, NLP, or any of my projects</td>
+  </tr>
+  <tr>
+    <td>📫</td>
+    <td><strong>Reach me:</strong> <a href="https://www.linkedin.com/in/shohanursobuj/">LinkedIn</a> • <a href="mailto:shohanursobuj@gmail.com">Email</a></td>
+  </tr>
+  <tr>
+    <td>😄</td>
+    <td><strong>Pronouns:</strong> He/Him</td>
+  </tr>
+  <tr>
+    <td>📝</td>
+    <td><strong>Resume:</strong> <a href="https://shohanursobuj.dev/resume">View My CV</a></td>
+  </tr>
+</table>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ShohanurSobuj)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ShohanurSobuj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shohanursobuj/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShohanurSobuj)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://shohanursobuj.dev)
+
+</div>
+
+---
+
+## 🛠️ Languages and Tools
+
+<div align="center">
+
+### **Programming Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **Machine Learning & AI Frameworks**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+### **MLOps & Observability**
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+### **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### **Development Tools**
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td colspan="2">
+
+### ⚙️ [Production ML Platform](https://github.com/shohanursobuj/production-ml-platform)
+**End-to-end MLOps reference: train → eval gate → Kubernetes canary → SLO alerts → drift detection → retraining**
+- 🏷️ MLOps, Kubernetes, Helm, Argo Rollouts, Terraform (GKE), Prometheus, Grafana, MLflow
+- 🔁 CI trains, gates, and deploys every commit into a kind cluster before publishing the image
+- 📉 In-process drift detection (PSI) with alerts; models promoted through reviewed pull requests
+
+[![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shohanursobuj/production-ml-platform)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 [ChatGPT Prompt Engineering](https://github.com/shohanursobuj/prompt-engineering-for-developers)
+**Advanced prompt engineering techniques for developers**
+- ⭐ 3+ Stars • 🍴 0 Forks
+- 🏷️ AI, ChatGPT, OpenAI, Deep Learning
+- 📚 Comprehensive guide and examples
+
+[![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shohanursobuj/prompt-engineering-for-developers)
+
+</td>
+<td width="50%">
+
+### 🍃 [LeafExtractCNN](https://github.com/shohanursobuj/LeafExtractCNN)
+**CNN-based rice leaf disease classification**
+- ⭐ 1+ Stars • 🍴 0 Forks
+- 🏷️ Computer Vision, CNN, Agriculture
+- 🔬 Research-oriented ML project
+
+[![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shohanursobuj/LeafExtractCNN)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🗄️ [MinIO Manager](https://github.com/shohanursobuj/MinIO-Manager)
+**Python tool for MinIO bucket management**
+- ⭐ 1+ Stars • 🍴 0 Forks
+- 🏷️ Cloud Storage, Python, DevOps
+- ⚡ Efficient cloud storage management
+
+[![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shohanursobuj/MinIO-Manager)
+
+</td>
+<td width="50%">
+
+### 🧠 [FastText Bangla LM](https://github.com/shohanursobuj/FastText_train_banglaLM_dataset)
+**FastText training for Bangla language model**
+- 🏷️ NLP, Language Models, Bangla
+- 📊 Text preprocessing and model training
+- 🌐 Multilingual AI development
+
+[![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shohanursobuj/FastText_train_banglaLM_dataset)
+
+</td>
+</tr>
+</table>
+
+[![View All Projects](https://img.shields.io/badge/View_All_Projects-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shohanursobuj?tab=repositories)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=shohanursobuj&show_icons=true&count_private=true&theme=vue-dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shohanursobuj&theme=vue-dark&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShohanurSobuj&layout=compact&theme=vue-dark&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
+
+### 📈 **Contribution Graph**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shohanursobuj&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+## 🤝 Let's Collaborate!
+
+<div align="center">
+
+### 💡 **Ready to Build Something Amazing?**
+
+I'm always excited to work on innovative projects, especially in:
+- 🤖 **Machine Learning & AI Solutions**
+- 📊 **Data Science & Analytics Projects**  
+- 🔗 **Natural Language Processing Applications**
+- 👁️ **Computer Vision Systems**
+- ⚡ **MLOps & Model Deployment**
+- 🤖 **LLM & RAG Systems in Production**
+
+<table>
+<tr>
+<td align="center">
+<h4>🚀 For Collaboration</h4>
+<a href="https://www.linkedin.com/in/shohanursobuj/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</td>
+<td align="center">
+<h4>💼 For Business Inquiries</h4>
+<a href="mailto:shohanursobuj@gmail.com">
+<img src="https://img.shields.io/badge/Email-Business-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</td>
+<td align="center">
+<h4>📱 For Quick Chat</h4>
+<a href="https://t.me/ShohanurSobuj">
+<img src="https://img.shields.io/badge/Telegram-Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 Profile Statistics
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ShohanurSobuj&color=58a6ff&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+
+<br><br>
+
+**⭐ If you find my work interesting, please consider giving this repository a star!**
+
+<img src="https://img.shields.io/github/stars/shohanursobuj/shohanursobuj?style=social" alt="Stars"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🙏 **Thank You for Visiting!**
+
+*Made with ❤️ by [Md. Shohanur Islam Sobuj](https://shohanursobuj.dev)*
+
+**"Turning Data into Decisions, Code into Solutions"**
+
+</div>
