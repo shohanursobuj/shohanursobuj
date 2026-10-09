@@ -253,7 +253,7 @@ I'm passionate about transforming complex data into actionable insights and buil
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShohanurSobuj&layout=compact&theme=vue-dark&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
 
 ### 📈 **Contribution Graph**
-<img src="https://ghchart.rshah.org/58a6ff/shohanursobuj" alt="Contribution Graph"/>
+<img src="https://ghchart.rshah.org/shohanursobuj" alt="Contribution Graph"/>
 
 </div>
 
