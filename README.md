@@ -6,7 +6,7 @@
 
 ## Hi, I'm [Md Shohanur Islam Sobuj!](https://shohanursobuj.dev) <img src="https://raw.githubusercontent.com/ShohanurSobuj/ShohanurSobuj/master/assets//Hi.gif" width="29px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer+%F0%9F%A4%96;NLP+%26+Deep+Learning+Enthusiast+%F0%9F%A7%A0;MLOps+%26+LLM+Systems+in+Production+%E2%9A%99%EF%B8%8F;Research+%26+Innovation+Focused+%F0%9F%94%AC;Always+Learning+New+Things+%F0%9F%93%9A;Welcome+to+My+Profile!+%F0%9F%8C%9F)](https://shohanursobuj.dev)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer+%F0%9F%A4%96;LLMs%2C+Agents+%26+RAG+in+Production+%E2%9A%99%EF%B8%8F;LLM+Evaluation+%26+MLOps+%F0%9F%93%88;GPU+Inference+with+vLLM+%E2%9A%A1;Multimodal+AI+%26+Video+as+Code+%F0%9F%8E%AC;12+Papers+%C2%B7+225%2B+Citations+%F0%9F%94%AC)](https://shohanursobuj.dev)
 
 <img align="right" src="https://komarev.com/ghpvc/?username=ShohanurSobuj&color=58a6ff&style=flat-square&label=Profile+Views"/>
 
@@ -25,9 +25,9 @@
 ### 👨‍💻 **Professional Journey**
 
 🔹 **Machine Learning Engineer** at *Anymate Me GmbH*, Köln — agentic slide-to-video pipeline on GCP (p95 < 3 min, 99.4% uptime)  
-🔹 **6+ Years** of experience in production ML, MLOps and LLM systems  
-🔹 **13 AI Products** shipped at Anchorblock · **30+ Projects** delivered as a freelancer  
-🔹 **12 Peer-Reviewed Papers** (Nature Sci. Reports, IEEE Access, NeurIPS & ICLR workshops) — 225+ citations  
+🔹 **7+ Years** in ML: production LLM systems, multimodal AI, MLOps and GPU inference  
+🔹 **13 AI/ML Projects** delivered at Anchorblock · **30+ Projects** delivered as a freelancer  
+🔹 **12 Papers** (Scientific Reports, IEEE Access, ACL & ICLR workshops) — 225+ citations  
 
 ### 🎯 **What Drives Me**
 
@@ -54,7 +54,7 @@ I'm passionate about transforming complex data into actionable insights and buil
 <table>
   <tr>
     <td>🔭</td>
-    <td><strong>Current Focus:</strong> Production LLM & multimodal pipelines — eval gates, canary deploys, observability</td>
+    <td><strong>Current Focus:</strong> Production LLM & multimodal pipelines — agents and RAG behind eval gates, self-hosted GPU inference (vLLM), observability</td>
   </tr>
   <tr>
     <td>🌱</td>
@@ -62,11 +62,11 @@ I'm passionate about transforming complex data into actionable insights and buil
   </tr>
   <tr>
     <td>⚙️</td>
-    <td><strong>Daily Tools:</strong> <code>Python</code>, <code>PyTorch</code>, <code>Docker</code>, <code>Kubernetes</code>, <code>GCP</code>, <code>MLflow</code></td>
+    <td><strong>Daily Tools:</strong> <code>Python</code>, <code>PyTorch</code>, <code>Docker</code>, <code>vLLM</code>, <code>GCP</code>, <code>MLflow</code></td>
   </tr>
   <tr>
     <td>🎯</td>
-    <td><strong>Specializations:</strong> MLOps • LLMs & RAG • NLP • Computer Vision</td>
+    <td><strong>Specializations:</strong> LLMs, Agents & RAG • LLM Evaluation • MLOps • Multimodal AI • NLP</td>
   </tr>
   <tr>
     <td>👯</td>
@@ -116,7 +116,6 @@ I'm passionate about transforming complex data into actionable insights and buil
 
 ### **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### **Machine Learning & AI Frameworks**
@@ -131,8 +130,6 @@ I'm passionate about transforming complex data into actionable insights and buil
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -171,7 +168,7 @@ I'm passionate about transforming complex data into actionable insights and buil
 
 ### ⚙️ [Production ML Platform](https://github.com/shohanursobuj/production-ml-platform)
 **End-to-end MLOps reference: train → eval gate → Kubernetes canary → SLO alerts → drift detection → retraining**
-- 🏷️ MLOps, Kubernetes, Helm, Argo Rollouts, Terraform (GKE), Prometheus, Grafana, MLflow
+- 🏷️ MLOps, Argo Rollouts canary, Terraform (GKE), Prometheus, Grafana, MLflow
 - 🔁 CI trains, gates, and deploys every commit into a kind cluster before publishing the image
 - 📉 In-process drift detection (PSI) with alerts; models promoted through reviewed pull requests
 
@@ -182,22 +179,22 @@ I'm passionate about transforming complex data into actionable insights and buil
 <tr>
 <td width="50%">
 
-### 🤖 [ChatGPT Prompt Engineering](https://github.com/shohanursobuj/prompt-engineering-for-developers)
-**Advanced prompt engineering techniques for developers**
-- ⭐ 3+ Stars • 🍴 0 Forks
-- 🏷️ AI, ChatGPT, OpenAI, Deep Learning
-- 📚 Comprehensive guide and examples
+### 📈 [LLM-Mixer](https://aclanthology.org/2025.trl-1.12/)
+**Multiscale mixing in LLMs for time-series forecasting**
+- 📄 TRL Workshop @ ACL 2025 (co-author)
+- 🏷️ LLMs, Time Series, PyTorch
+- 🧊 Frozen LLM backbone over multiscale time-series inputs
 
-[![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shohanursobuj/prompt-engineering-for-developers)
+[![Code](https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kowsher/LLMMixer)
 
 </td>
 <td width="50%">
 
 ### 🍃 [LeafExtractCNN](https://github.com/shohanursobuj/LeafExtractCNN)
 **CNN-based rice leaf disease classification**
-- ⭐ 1+ Stars • 🍴 0 Forks
+- 📄 iCACCESS 2024 (IEEE), first author
 - 🏷️ Computer Vision, CNN, Agriculture
-- 🔬 Research-oriented ML project
+- 🔬 HOG features + EfficientNet-B7: 97% accuracy
 
 [![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shohanursobuj/LeafExtractCNN)
 
@@ -208,7 +205,6 @@ I'm passionate about transforming complex data into actionable insights and buil
 
 ### 🗄️ [MinIO Manager](https://github.com/shohanursobuj/MinIO-Manager)
 **Python tool for MinIO bucket management**
-- ⭐ 1+ Stars • 🍴 0 Forks
 - 🏷️ Cloud Storage, Python, DevOps
 - ⚡ Efficient cloud storage management
 
@@ -271,7 +267,7 @@ I'm always excited to work on innovative projects, especially in:
 - 🔗 **Natural Language Processing Applications**
 - 👁️ **Computer Vision Systems**
 - ⚡ **MLOps & Model Deployment**
-- 🤖 **LLM & RAG Systems in Production**
+- 🤖 **LLM, Agent & RAG Systems in Production**
 
 <table>
 <tr>
